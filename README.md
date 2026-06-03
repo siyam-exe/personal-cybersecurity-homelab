@@ -54,7 +54,7 @@ This project includes:
 The full technical documentation is available here:
 
 <p align="center">
-  <a href="./Personal-Cybersecurity-Homelab-SOC-Detection-Portfolio.pdf">
+  <a href="./Homelab Documentation.pdf">
     <img src="https://img.shields.io/badge/Read%20Full%20Documentation-PDF-blue?style=for-the-badge" alt="Read Full Documentation PDF">
   </a>
 </p>
